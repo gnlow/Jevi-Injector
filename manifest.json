@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "Jevi Injector",
+  "description": "제비 스크립트를 주입하여 작동하도록 합니다.",
+  "version": "1.0",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "https://playentry.org/*"
+  ]
+}
